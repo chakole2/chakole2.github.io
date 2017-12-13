@@ -1,6 +1,6 @@
 #name {
   text-align: center;
-  font-size: 400%;
+  font-size: 7vmin;
   color: #DDCCE7;
   margin-top: 15%;
   margin-left: 25%;
@@ -22,9 +22,9 @@
 }
 
 #tab {
-  margin-left: 35%;
-  margin-top: -5%;
+  margin: auto;
   border-width: 5px;
+  font-size: 2vmin;
   border-color: #513B3C;
   border-style: solid;
   color: #DDCCE7;
