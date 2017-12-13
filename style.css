@@ -1,5 +1,18 @@
 #name {
-  
+  text-align: center;
+  font-size: 7vmin;
+  color: #DDCCE7;
+  margin-top: 15%;
+  margin-left: 25%;
+  height: 30%;
+  width: 50%;
+  background-color: #513B3C;
+  border-radius: 50px;
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+  font-family: Harrington,fantasy;
+
 }
 
 
@@ -11,7 +24,7 @@
 #tab {
   margin: auto;
   border-width: 5px;
-  font-size: small;
+  font-size: 2vmin;
   border-color: #513B3C;
   border-style: solid;
   color: #DDCCE7;
@@ -35,4 +48,3 @@ a:hover {
 a:active {
     color: black;
 }
- 
