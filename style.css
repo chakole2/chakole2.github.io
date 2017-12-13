@@ -1,1 +1,50 @@
-Parul/Documents/ParPerWebsite/style.css
+#name {
+  text-align: center;
+  font-size: 400%;
+  color: #DDCCE7;
+  margin-top: 15%;
+  margin-left: 25%;
+  height: 30%;
+  width: 50%;
+  background-color: #513B3C;
+  border-radius: 50px;
+  border-width: 10px;
+  border-color: black;
+  border-style: solid;
+  font-family: Harrington,fantasy;
+
+}
+
+
+#hello {
+  background-image: url("background.png");
+  background-color: gray;
+}
+
+#tab {
+  margin-left: 35%;
+  margin-top: -5%;
+  border-width: 5px;
+  border-color: #513B3C;
+  border-style: solid;
+  color: #DDCCE7;
+}
+/* unvisited link */
+a {
+    color: #DDCCE7;
+}
+
+/* visited link */
+a:visited {
+    color: #277AF1;
+}
+
+/* mouse over link */
+a:hover {
+    color: #B292B0;
+}
+
+/* selected link */
+a:active {
+    color: black;
+}
